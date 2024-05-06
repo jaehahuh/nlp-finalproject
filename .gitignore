@@ -1,0 +1,7 @@
+model/data/
+server/data/
+.env
+__pycache__/
+server/serving/
+test.*
+frontend/node_modules/
