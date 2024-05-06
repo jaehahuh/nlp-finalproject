@@ -17,6 +17,6 @@
 ## 📅**Project Process**
 
 
-![Alt text](./resource/3.png)
+![Alt text](./resource/timeline.png)
 
 <br>
